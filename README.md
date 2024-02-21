@@ -1,1 +1,1 @@
-# RizkyFajarSatriya_PBO
+# praktikum-pbo
